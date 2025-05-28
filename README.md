@@ -1,5 +1,6 @@
 Limbajul de programare utilizat: C
 Biblioteca utilizată: RayLib
+VERSIUNEA FINALA A JOCULUI: fisierul "hangman.c" din repository
 
 Reguli joc
 Utilizatorul alege dificultatea dorită, limba din care va face parte cuvântul pe care îl va avea de ghicit și domeniul din care face parte cuvântul.
