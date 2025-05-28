@@ -1,0 +1,43 @@
+apa,ceai,cafea,lapte,paine,orez,carne,peste,ou,branza,unt,ulei,sare,zahar
+,miere,faina,malai,gris,mamaliga,cascaval,iaurt,smantana,masline,ardei
+,rosii,castraveti,ceapa,usturoi,morcovi,cartofi,varza,spanac,broccoli
+,conopida,ciuperci,dovleac,vinete,zucchini,telina,patrunjel,marar,leustean
+,busuioc,oregano,cimbru,rozmarin,menta,dafin,mustar,ketchup,maioneza,otet
+,soia,gem,dulceata,compot,suc,nectar,limonada,bere,vin,tuica,palinca,vodca
+,whisky,rom,gin,tequila,vermut,sampanie,alune,nuci,migdale,fistic,caju
+,stafide,curmale,smochine,prune,caise,piersici,banane,mere,pere,gutui
+,cirese,visine,capsuni,zmeura,mure,afine,ananas,kiwi,mango,avocado,rodie
+,pepene,portocala,lamaie,grapefruit,mandarina,smochina,curmala,struguri
+,coacaze,agrise,porumb,mazare,fasole,linte,naut,tofu,tempeh,seitan,quinoa
+,couscous,bulgur,tapioca,amaranth,hrisca,orz,secara,ovaz,mei,fulgi,tarate
+,painici,covrigi,biscuiti,crackers,grisine,sticks,saratele,turta,placinta
+,gogosi,clatite,vafe,briose,chec,fursecuri,prajituri,tort,inghetata,sorbet
+,budinca,crema,musli,granola,bomboane,jeleuri,acadele,ciocolata,halva
+,rahat,saratele,popcorn,nachos,chipsuri,arahide,seminte,dovleac,floarea
+soarelui,susan,pita,lipie,tortilla,bagheta,croissant,melc,cornulete
+,saleuri,pizza,kebab,shaorma,burger,hot
+dog,sandvis,supa,ciorba,bors,pilaf,ghiveci,tocanita,sarmale,musaca,ardei
+,fasole,zacusca,salata,icre,pate,ficat,creier,maduva,limba,inima,rinichi
+,plamani,burta,coaste,carnati,lebar,vracioare,sunca,bacon,pastrama,salam
+,prosciutto,jambon,mortadella,parizer,cotlet,frigarui,mititei,chiftele
+,snitel,cordon
+bleu,ostropel,papricas,gulas,ciolan,rasol,sos,bulion,mirodenii,condimente
+,drojdie,otet,ulei,sare,piper,boia,curry,turmeric,ghimbir,scortisoara
+,vanilie,anason,nucsoara,cuisoare,cardamom,hrean,maghiran,tarhon,salvie
+,chimion,fenicul,coriandru,ardei iute,castraveti murati,gogosari,varza
+murata,conopida,castraveti acri,gogosari acri,varza acra,conopida
+acra,muraturi,zacusca,ciuperci murate,masline murate,ardei
+umpluti,gogosari umpluti,varza umpluta,conopida umpluta,castraveti in
+otet,gogosari in otet,varza in otet,conopida in
+otet,boeuf,vinete,icre,salata orientala,salata greceasca,salata
+caesar,maioneza,ketchup,mustar,paine de casa,biscuiti de casa,prajituri de
+casa,tort de casa,inghetata de casa,dulceata de casa,compot de caise,suc
+de mere,limonada de menta,bere artizanala,vin fiert,tuica fiarta,palinca
+fiarta,cozonac,pasca,salam de
+biscuiti,negresa,amandina,savarina,ecler,profiterol,tiramisu,cheesecake
+,brownies,muffins,cupcakes,macarons,tarte,clafoutis,crumble,pavlova
+,pannacotta,creme
+brulee,fondant,sufleu,pancakes,waffles,churros,donuts,beignets,cannoli
+,sfogliatelle,baklava,kataifi,kadaif,sarailie,mere,branza,dovleac,strudel
+,gem,ciocolata,frisca,caramel,menta,cola,vin,fructe
+
